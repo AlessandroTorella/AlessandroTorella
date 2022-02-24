@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @AlessandroTorella
+- 👀 I’m interested in Everything Challenging
+- 🌱 I’m currently learning Python 🐍
+- 📫 How to reach me torellaale8@gmail.com
