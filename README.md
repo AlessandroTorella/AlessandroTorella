@@ -1,4 +1,4 @@
 - 👋 Hi, I’m @AlessandroTorella
-- 👀 I’m interested in Everything Challenging
-- 🌱 I’m currently learning Python 🐍
+- 🧭 I’m interested in Geospatial Analysis at the moment 
+- 🌱 I’m currently (probably forever) learning Python 🐍
 - 📫 How to reach me torellaale8@gmail.com
